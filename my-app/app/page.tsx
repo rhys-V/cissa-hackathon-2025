@@ -12,7 +12,7 @@ export default function HomePage() {
               </li>
               <img src="path/to/image.jpg" alt="Website Logo"></img>
               <li>
-                <a href="/page2">Home</a>
+                <a href="/page2">page2</a>
               </li>
             </ul>
           </nav>

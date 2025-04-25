@@ -1,6 +1,6 @@
 import React from "react";
 
-const MusicDashboard = () => {
+export default function MusicDashboard(){
   return (
     <div className="bg-gray-900 text-white min-h-screen pb-24">
       <div className="bg-gray-800 flex items-center justify-between p-4">
@@ -90,6 +90,5 @@ const MusicDashboard = () => {
       </div>
     </div>
   );
-};
+}
 
-export default MusicDashboard;
